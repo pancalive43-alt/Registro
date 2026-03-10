@@ -1,0 +1,16 @@
+{
+    "classi": [
+        "1 A ITT"
+    ],
+    "studenti": {
+        "966610910682": {
+            "nome": "simf425",
+            "password": "VT8OG6L3",
+            "classe": "1 A ITT",
+            "voti": [],
+            "assenze": 0,
+            "note": []
+        }
+    },
+    "bacheca": []
+}
